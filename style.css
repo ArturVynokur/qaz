@@ -1,0 +1,80 @@
+
+.RER{
+   
+    width: 1000px;
+    margin: auto;
+}
+li{
+display: inline-block;
+
+margin-right: 100px;
+
+}
+ul{
+    text-align: center;
+}
+a{
+    font-family: sans-serif;
+    font-size: 18px;
+    text-decoration: 0;
+    color: grey;
+}
+a:hover{
+color: aqua;    
+} 
+.zzz{
+  
+    width: 300px;
+}
+.zed{
+    
+    width: 300px;
+}
+section{
+    width: 1000px;
+}
+.zzz{
+    width: 400px;
+    height: 270px;
+    background-image: url(homework-03.jpg);
+    background-size: cover;
+}
+.qqq{
+ font-family: sans-serif;
+ color: gray;
+ font-size: 10px;
+}
+.ap{
+ 
+    width: 400px;
+   display: inline-block;
+   margin-left: 55px;
+}
+.as{
+    font-family: sans-serif;
+    color: gray;
+    font-size: 18px;
+}
+.das{
+    background-image: url(homework-032.jpg);
+    background-size: cover;
+}
+.zxc{
+    background-image: url(homework-033.jpg);
+    
+}
+.asd{
+    background-image: url(homework-034.jpg);
+}
+.qwe{
+    background-image: url(homework-035.jpg);
+}
+.qwer{
+    background-image: url(homework-036.jpg);
+}
+
+.poi{
+    display: block;
+    margin: auto;
+    width: 105px;
+}
